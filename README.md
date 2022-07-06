@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, just use this to clean your localstorage 👋
 
 <!--
 **shirshandub/shirshandub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
